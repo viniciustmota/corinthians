@@ -1,0 +1,121 @@
+* {
+    box-sizing: border-box;
+  }
+  body {
+    font-family: Arial;
+    padding: 10px;
+    background: #f1f1f1;
+  }
+  /* Header/Cabeçalho do Site */
+  .header {
+    padding: 30px;
+    text-align: center;
+    background: white;
+  }
+  .header h1 {
+    font-size: 50px;
+  }
+  /* Style da Barra de Navegação */
+  .topnav {
+    overflow: hidden;
+    background-color: #333;
+  }
+  /* Style dos links da Barra de Navegação */
+  .topnav a {
+    float: left;
+    display: block;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  /* Alterar cor ao passar o mouse */
+  .topnav a:hover {
+    background-color: #ddd;
+    color: black;
+  }
+  /* Cria duas colunas desiguais 
+  que flutuem uma ao lado da outra */
+  /* Coluna esquerda */
+  .leftcolumn {   
+    float: left;
+    width: 75%;
+  }
+  /* Coluna direita */
+  .rightcolumn {
+    float: left;
+    width: 25%;
+    background-color: #f1f1f1;
+    padding-left: 20px;
+  }
+  /* imagem falsa para visualização no site */
+  .fakeimg {
+    width: 100%;
+    margin-bottom: 30px;
+    height: auto;
+  }
+
+  .fakeimg img{
+    width: 100%;
+  }
+  /* Adiciona um efeito de cartão para artigos */
+  .card {
+    background-color: white;
+    padding: 20px;
+    margin-top: 20px;
+  }
+
+  .card p{
+    margin-top: 25px;
+  }
+
+  .img_Redes{
+    width: 150px;
+    margin-bottom: 10px;
+    cursor: pointer;
+  }
+
+  .link-loja{
+    text-decoration: none;
+    color: #fdfdfd;
+    background-color: #333;
+    border-radius: 50px;
+    padding: 15px;
+    text-transform: uppercase;
+    font-weight: bold;
+  }
+
+  .link-loja:hover{
+    background-color: black;
+  }
+
+  /* Limpar floats após as colunas */
+  .row:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+  /* Rodapé */
+  .footer {
+    padding: 20px;
+    text-align: center;
+    background: #ddd;
+    margin-top: 20px;
+  }
+  .img_Footer{
+    width: 100px;
+  }
+  /* Layout responsivo - quando a tela tiver menos de 800px de largura,faz as duas colunas empilharem uma sobre a outra em vez de uma ao lado da outra */
+  @media screen and (max-width: 800px) {
+    .leftcolumn, .rightcolumn {   
+      width: 100%;
+      padding: 0;
+    }
+  }
+  /* Layout responsivo - quando a tela tiver menos de 400px de largura, faz os links de navegação empilharem um sobre o outro em vez de um ao lado do outro */
+  @media screen and (max-width: 400px) {
+    .topnav a {
+      float: none;
+      width: 100%;
+    }
+  }

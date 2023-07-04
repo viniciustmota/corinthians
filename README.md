@@ -6,4 +6,5 @@ Meu grupo fez um site do Corinthians com:
  <li>Calendario de jogos;</li>
  <li>Patrocinadores;</li>
  <li>Loja do Timão;</li>
-![camisa com o escudo do Corinthians](https://github.com/viniciustmota/corinthians/assets/106537834/af994972-2ae9-4698-a9a6-e97030bb5db3)
+
+![corinthians-lanca-nova-camisa-em-homenagem-ao-titulo-de-90-1593977242289_v2_1x1 (1)](https://github.com/viniciustmota/corinthians/assets/106537834/f532043d-b556-4fae-a8e9-94d6efda596f)

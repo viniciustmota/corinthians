@@ -35,11 +35,8 @@ Sinta-se à vontade para contribuir com este projeto. Você pode:
 
 ## ✒️ Autores
 
-| [<img src="https://avatars.githubusercontent.com/u/37356058?v=4" width=115><br><sub>Vinicius Tavares Mota</sub>](https://github.com/viniciustmota) |  [<img src="https://avatars.githubusercontent.com/u/30351153?v=4" width=115><br><sub>Marcio Piva Junior</sub>](https://github.com/marcioP457)
+| [<img src="https://avatars.githubusercontent.com/viniciustmota" width=115><br><sub>Vinicius Tavares Mota</sub>](https://github.com/viniciustmota) |  [<img src="https://avatars.githubusercontent.com/marcioP457" width=115><br><sub>Marcio Piva Junior</sub>](https://github.com/marcioP457)
 | :---: | :---: |
-
-* **Vinícius Tavares Mota**  - [GitHub](https://github.com/viniciustmota) - [Linkedin](https://www.linkedin.com/in/viniciustmota/)
-* **Marcio Piva Junior** - [GitHub](https://github.com/marcioP457) - [Linkedin](https://www.linkedin.com/in/m%C3%A1rcio-piva-junior-32a30a262/)
 
 ## 🎯 Objetivo com o Projeto
 

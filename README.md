@@ -30,7 +30,7 @@ Sinta-se à vontade para contribuir com este projeto. Você pode:
 
 ## 📎 Links 
 
-1. [Site](https://kids-ochre.vercel.app/)
+1. [Site](https://corinthians-seven.vercel.app)
 2. [Repositório](https://github.com/viniciustmota/corinthians)
 
 ## ✒️ Autores
